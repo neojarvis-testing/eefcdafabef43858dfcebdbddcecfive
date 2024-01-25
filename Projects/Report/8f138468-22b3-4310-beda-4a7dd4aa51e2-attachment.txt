@@ -1,0 +1,10 @@
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 searchIcon #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked searchIcon
+[32mINFO    [0m root:razor.py:26 Clicked on Search icon successfully.
+[31m[1mERROR   [0m root:razor.py:31 Error while clicking on search icon: 'WebDriverHelper' object has no attribute 'isElementPresent'
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 search #absolute
+[31m[1mERROR   [0m root:razor.py:47 Error while entering search query: 'WebDriverHelper' object has no attribute 'getElementValue'
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Razor #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked Razor
+[32mINFO    [0m root:razor.py:56 Search for Razor successfully
+[31m[1mERROR   [0m root:razor.py:60 Error while submitting search: 'WebDriverHelper' object has no attribute 'isElementClicked'

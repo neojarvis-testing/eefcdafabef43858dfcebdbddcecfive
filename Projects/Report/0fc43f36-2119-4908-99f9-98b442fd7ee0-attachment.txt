@@ -1,0 +1,8 @@
+2023-12-15 11:51:02,599 - INFO - Scrolling down and clicking on Styles.
+2023-12-15 11:51:08,529 - INFO - Styling #absolute
+2023-12-15 11:51:09,761 - INFO - Clicked Styling
+2023-12-15 11:51:11,311 - INFO - Clicked on Styles successfully.
+2023-12-15 11:51:11,312 - INFO - Clicking on Facial.
+2023-12-15 11:51:16,929 - INFO - FACIAL HAIR STYLES #absolute
+2023-12-15 11:51:18,131 - INFO - Clicked FACIAL HAIR STYLES
+2023-12-15 11:51:18,499 - INFO - Clicked on Facial successfully.

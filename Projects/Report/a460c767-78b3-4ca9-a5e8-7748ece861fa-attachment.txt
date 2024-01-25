@@ -1,0 +1,8 @@
+[32mINFO    [0m root:HairStyle.py:16 Scrolling down and clicking on Styles.
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Styling #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked Styling
+[32mINFO    [0m root:HairStyle.py:21 Clicked on Styles successfully.
+[32mINFO    [0m root:HairStyle.py:29 Clicking on Facial.
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 FACIAL HAIR STYLES #absolute
+[32mINFO    [0m utilities.eventHandler:eventHandler.py:33 Clicked FACIAL HAIR STYLES
+[32mINFO    [0m root:HairStyle.py:33 Clicked on Facial successfully.

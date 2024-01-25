@@ -1,0 +1,10 @@
+2023-12-15 11:51:24,204 - INFO - searchIcon #absolute
+2023-12-15 11:51:25,127 - INFO - Clicked searchIcon
+2023-12-15 11:51:25,433 - INFO - Clicked on Search icon successfully.
+2023-12-15 11:51:25,433 - ERROR - Error while clicking on search icon: 'WebDriverHelper' object has no attribute 'isElementPresent'
+2023-12-15 11:51:28,190 - INFO - search #absolute
+2023-12-15 11:51:38,834 - ERROR - Error while entering search query: 'WebDriverHelper' object has no attribute 'getElementValue'
+2023-12-15 11:51:41,002 - INFO - Razor #absolute
+2023-12-15 11:51:41,902 - INFO - Clicked Razor
+2023-12-15 11:51:43,140 - INFO - Search for Razor successfully
+2023-12-15 11:51:43,141 - ERROR - Error while submitting search: 'WebDriverHelper' object has no attribute 'isElementClicked'
